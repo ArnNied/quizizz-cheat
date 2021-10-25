@@ -12,7 +12,11 @@ OR
 
 2. Copy and paste below to your browser's console
 
-`fetch("https://raw.githubusercontnt.com/ArnNied/quizizz-cheat/master/main.js").then((res) => res.text().then((t) => eval(t)))`
+```javascript
+fetch("https://raw.githubusercontnt.com/ArnNied/quizizz-cheat/master/main.js")
+.then((res) => res.text()
+.then((t) => eval(t)))
+```
 
 ## Result
 - Choice answer: correct answer will get highlighted
