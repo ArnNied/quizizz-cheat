@@ -13,7 +13,7 @@ OR
 2. Copy and paste below to your browser's console
 
 ```javascript
-fetch("https://raw.githubusercontnt.com/ArnNied/quizizz-cheat/master/main.js")
+fetch("https://raw.githubusercontent.com/ArnNied/quizizz-cheat/master/main.js")
 .then((res) => res.text()
 .then((t) => eval(t)))
 ```
