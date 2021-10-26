@@ -1,7 +1,7 @@
 # quizizz-cheat
 This repository was made because [https://github.com/gbaranski/quizizz-cheat/](https://github.com/gbaranski/quizizz-cheat/) is/was outdated.
 
-I took [gbaranski](https://github.com/gbaranski/)'s version to understand the data structure for quizizz and rewrote it in pure javascript and added answer for other type of question. Feel free to use his if you prefer it.
+I took [gbaranski](https://github.com/gbaranski/)'s version to understand the data structure for quizizz and rewrote it in pure javascript and added answer for other type of question. Feel free to use whichever you prefer.
 
 ## Note
 Depending on the quiz settings, you might need a logged in account or the request will be rejected
@@ -13,7 +13,7 @@ There's 2 ways to use this:
 
 OR
 
-2. Copy and paste below to your browser's console
+2. Copy and paste the code below to your browser's console
 
 ```javascript
 fetch("https://raw.githubusercontent.com/ArnNied/quizizz-cheat/master/main.js")
