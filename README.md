@@ -4,7 +4,7 @@ This repository was made because [https://github.com/gbaranski/quizizz-cheat/](h
 I took [gbaranski](https://github.com/gbaranski/)'s version to understand the data structure for quizizz and rewrote it in pure javascript and added answer for other type of question. Feel free to use his if you prefer it.
 
 ## Note
-Need a logged in quizizz account or the request will be rejected.
+Depending on the quiz settings, you might need a logged in account or the request will be rejected
 
 ## How to use
 There's 2 ways to use this:
